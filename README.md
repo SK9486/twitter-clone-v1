@@ -1,6 +1,4 @@
-# Creating a sample README file with the provided content and saving it for download.
 
-readme_content = """
 # MERN Stack Project: Build and Deploy a Twitter Clone From Scratch | JWT, Socket.io
 
 
