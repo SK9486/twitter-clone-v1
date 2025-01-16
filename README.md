@@ -1,5 +1,9 @@
 
 # MERN Stack Project: Build and Deploy a Twitter Clone From Scratch | JWT, Socket.io
+### LOGIN PAGE
+### SIGNUP PAGE
+### NOTIFICATION PAGE
+### HOME PAGE
 
 
 This project is a Twitter clone built using the MERN stack, based on a tutorial by [My Guru's ](https://youtu.be/4GUVz2psWUg). The application features essential Twitter-like functionalities such as posting, commenting, and following, and integrates modern technologies like JWT for authentication and Socket.io for real-time communication.
